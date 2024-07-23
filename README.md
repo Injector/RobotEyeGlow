@@ -6,6 +6,7 @@ Player must have robot model which starts with "models/bots/" to apply robot eye
 * Custom robot eye color.
 * Translations system support.
 * Detect robot model change (from regular to giant and giant to regular) to change eye glow position.
+* Add support for custom robot models
 
 ## Commands:
 ``sm_robot_eyes`` (Admin Access: none, available to everyone) - Turn on or off the eyes
